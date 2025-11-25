@@ -9,7 +9,7 @@
     "format": "eslint --fix ."
   },
   "dependencies": {
-    "@babel/runtime": "^7.0.0",
+    "@babel/runtime": "^7.28.4",
     "@react-navigation/core": "^3.0.0-alpha.18",
     "@react-navigation/web": "^1.0.0-alpha.7",
     "d3-array": "^1.2.4",
