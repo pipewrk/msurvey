@@ -36,7 +36,7 @@
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-meteor": "^5.1.0",
     "eslint-plugin-react": "^7.11.1",
-    "expect": "^23.6.0",
+    "expect": "^30.2.0",
     "postcss": "^6.0.22",
     "postcss-load-config": "^6.0.1"
   },
